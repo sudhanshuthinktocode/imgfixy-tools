@@ -18,6 +18,7 @@
 * 🛠️ [**Master PDF Tools Suite**](https://imgfixy.com/tools/pdf-tools) – All-in-one PDF studio for organizing, editing, protecting, and optimizing PDF files.
 
 ### 🖼️ Photo & Exam Form Tools
+* 🏛️ [**Bihar Librarian SLET 2026 Resizer**](https://imgfixy.com/bihar-librarian-photo-resizer) – Official all-in-one 14-documents hub (Photo 80–200 KB, Signature 50–200 KB, 12 PDFs 100KB–2MB).
 * 🎯 [**Merge Photo & Signature**](https://imgfixy.com/tools/merge-photo-signature) – Instant presets for SSC, UPSC, NTA NEET, JEE Main, and Banking exam admit cards.
 * 📐 [**Resize Image (Units & KB)**](https://imgfixy.com/tools/resize-image) – Compress and resize images to exact target KB limits (20KB, 50KB, 100KB) and dimensions (cm, mm, inches).
 * 📅 [**Add Name & Date on Photo**](https://imgfixy.com/tools/add-name-date-photo) – Government exam photo generator with dynamic candidate name and date stamp.
@@ -26,14 +27,21 @@
 ---
 
 ## 🔒 100% Client-Side & Privacy First
-All image and PDF processing runs **locally in your browser** using WebAssembly, Canvas, and client-side engines. Your confidential documents, IDs, and photos are never uploaded or stored on any server.
+All image and PDF processing runs **locally in your browser** using WebAssembly, Canvas, PDF-Lib, and client-side engines. Your confidential documents, IDs, and photos are never uploaded or stored on any server.
 
 ---
 
-## 🔗 Useful Links
-* 🌐 **Homepage:** [https://imgfixy.com](https://imgfixy.com)
-* 📂 **All Tools Category:** [https://imgfixy.com/category](https://imgfixy.com/category)
-* 📜 **Privacy Policy:** [https://imgfixy.com/privacy-policy](https://imgfixy.com/privacy-policy)
+## 💻 Tech Stack
+* **Backend:** Core PHP (Modular includes & clean routing architecture)
+* **Styling:** Tailwind CSS (Modern SaaS glassmorphism & dark/light theme)
+* **Engines:** HTML5 Canvas API, PDF-Lib, PDF.js, JSZip
+* **Server Compatibility:** Apache, LiteSpeed, Nginx, cPanel, Hostinger
 
 ---
-*Created with ❤️ for creators, students, and professionals by [IMGFixy](https://imgfixy.com).*
+
+## 🚀 How to Run Locally
+
+### 1. Using PHP Built-in Server
+From the project root directory, run:
+```bash
+php -S localhost:8000 router.php
