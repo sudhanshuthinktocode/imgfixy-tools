@@ -37,11 +37,3 @@ All image and PDF processing runs **locally in your browser** using WebAssembly,
 * **Engines:** HTML5 Canvas API, PDF-Lib, PDF.js, JSZip
 * **Server Compatibility:** Apache, LiteSpeed, Nginx, cPanel, Hostinger
 
----
-
-## 🚀 How to Run Locally
-
-### 1. Using PHP Built-in Server
-From the project root directory, run:
-```bash
-php -S localhost:8000 router.php
