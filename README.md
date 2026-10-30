@@ -1,39 +1,44 @@
-# ⚡ IMGFixy - Free Online Image & PDF Tools Studio
+# ⚡ IMGFixy — Next-Gen Privacy-First Online Tools Studio & Document Processing Platform
 
-> 🌐 **Official Live Website:** [https://imgfixy.com](https://imgfixy.com)
+<p align="center">
+  <a href="https://imgfixy.com">
+    <img src="https://imgfixy.com/assets/images/logo.png" alt="IMGFixy Logo" width="120" onerror="this.style.display='none'"/>
+  </a>
+</p>
 
-**IMGFixy** is a modern, high-performance, and 100% browser-based utility suite for digital exam forms, job applications, PDF workflows, writers, and students. Completely free, instantaneous, and private with zero server uploads.
+<p align="center">
+  <strong>Free, Instant, and 100% Client-Side In-Browser Utilities for Creators, Students, Job Applicants & Professionals.</strong>
+</p>
 
----
-
-## 🚀 Popular Free Online Tools
-
-### 📄 PDF Tools & Converters
-* 🖼️ [**Images to PDF Converter**](https://imgfixy.com/tools/images-to-pdf) – Convert JPG, PNG, WebP, SVG, and BMP images into PDF with 100% exact image aspect ratio and zero borders.
-* 📑 [**JPG to PDF Online**](https://imgfixy.com/tools/jpg-to-pdf) – High-resolution JPEG to PDF converter with custom page sizes (A4, Letter, 16:9, 4:3).
-* 📎 [**Merge PDF Files**](https://imgfixy.com/tools/merge-pdf) – Combine multiple PDF documents into a single organized file in seconds.
-* ✂️ [**Split PDF Pages**](https://imgfixy.com/tools/split-pdf) – Extract specific pages or divide entire PDFs into separate files.
-* 🗜️ [**Compress PDF (Target KB)**](https://imgfixy.com/tools/compress-pdf) – Reduce PDF file size while retaining crystal-clear quality.
-* ✍️ [**Sign PDF Online**](https://imgfixy.com/tools/sign-pdf) – Draw, upload, or stamp digital signatures onto documents.
-* 🛠️ [**Master PDF Tools Suite**](https://imgfixy.com/tools/pdf-tools) – All-in-one PDF studio for organizing, editing, protecting, and optimizing PDF files.
-
-### 🖼️ Photo & Exam Form Tools
-* 🏛️ [**Bihar Librarian SLET 2026 Resizer**](https://imgfixy.com/bihar-librarian-photo-resizer) – Official all-in-one 14-documents hub (Photo 80–200 KB, Signature 50–200 KB, 12 PDFs 100KB–2MB).
-* 🎯 [**Merge Photo & Signature**](https://imgfixy.com/tools/merge-photo-signature) – Instant presets for SSC, UPSC, NTA NEET, JEE Main, and Banking exam admit cards.
-* 📐 [**Resize Image (Units & KB)**](https://imgfixy.com/tools/resize-image) – Compress and resize images to exact target KB limits (20KB, 50KB, 100KB) and dimensions (cm, mm, inches).
-* 📅 [**Add Name & Date on Photo**](https://imgfixy.com/tools/add-name-date-photo) – Government exam photo generator with dynamic candidate name and date stamp.
-* 🖋️ [**Resize Signature Online**](https://imgfixy.com/tools/resize-signature) – Fast signature background remover and 10–20 KB compressor.
+<p align="center">
+  <a href="https://imgfixy.com"><img src="https://img.shields.io/badge/Website-imgfixy.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website"></a>
+  <a href="https://github.com/sudhanshuthinktocode/imgfixy-tools"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"></a>
+  <img src="https://img.shields.io/badge/PHP-8.0%2B-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8+">
+  <img src="https://img.shields.io/badge/TailwindCSS-v3.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Privacy-100%25%20In--Browser-10B981?style=for-the-badge&logo=safari&logoColor=white" alt="100% Client-Side Privacy">
+</p>
 
 ---
 
-## 🔒 100% Client-Side & Privacy First
-All image and PDF processing runs **locally in your browser** using WebAssembly, Canvas, PDF-Lib, and client-side engines. Your confidential documents, IDs, and photos are never uploaded or stored on any server.
+## 🌟 Overview
+
+**[IMGFixy](https://imgfixy.com)** is an enterprise-grade, high-performance web utility platform designed with a modern **Linear / Vercel SaaS aesthetic**. It offers **120+ specialized tools** across images, PDFs, document conversion, live currency exchange, text analysis, and developer encoders.
+
+Unlike traditional online conversion websites that upload sensitive files to third-party cloud servers, **IMGFixy processes 100% of tasks locally in your browser** using WebAssembly, HTML5 Canvas API, PDF-Lib, and client-side JavaScript. Your confidential documents, government identity cards, signatures, and photos never leave your device.
 
 ---
 
-## 💻 Tech Stack
-* **Backend:** Core PHP (Modular includes & clean routing architecture)
-* **Styling:** Tailwind CSS (Modern SaaS glassmorphism & dark/light theme)
-* **Engines:** HTML5 Canvas API, PDF-Lib, PDF.js, JSZip
-* **Server Compatibility:** Apache, LiteSpeed, Nginx, cPanel, Hostinger
+## 🚀 Key Architectural Highlights
 
+* 🔒 **100% Client-Side & Zero Server Uploads:** Complete data sovereignty. Photos, documents, and credentials remain private and secure on the user's hardware.
+* ⚡ **Zero Network Latency:** Instantaneous processing with no server queues, upload delays, or artificial file size restrictions.
+* 🌓 **Modern Linear / Vercel Design System:** Clean typography, glassmorphism, fluid dark/light theme switching, responsive category navigation drawers, and mobile-first touch optimization.
+* 🎯 **SEO-First Clean URL & Redirection Engine:** Unified, strict two-tier hierarchical routing (`/{category}/{tool-slug}`) backed by automated **301 Permanent Redirects** in `.htaccess` and `router.php` to prevent duplicate indexing and search engine de-indexing.
+* 🗺️ **Dynamic Automated XML Sitemap:** Built-in XML sitemap generator (`sitemap.php` $\rightarrow$ `/sitemap.xml`) indexing only canonical clean URLs with zero legacy links.
+* 🏛️ **Programmatic SEO (pSEO) Exam Suite:** Dedicated dimension presets and automated cropping for 35+ major central & state competitive exams (UPSC, SSC, NTA NEET, JEE, Banking, SLET).
+
+---
+
+## 📂 Category Hubs & Clean Tool Directory
+
+IMGFixy organizes all utilities under **7 dedicated clean categories**:
